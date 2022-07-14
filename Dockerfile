@@ -1,4 +1,4 @@
-FROM quay.io/souravkl11/raganork:multidevice
+FROM quay.io/lyfe00011/md:beta
 
 RUN git clone https://github.com/KHADHER756/WhatsAppBot-MD /root/AlienAlfa
 
