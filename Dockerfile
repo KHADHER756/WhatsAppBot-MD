@@ -1,4 +1,4 @@
-FROM node:lts-buster
+FROM quay.io/souravkl11/raganork:multidevice
 
 RUN git clone https://github.com/KHADHER756/WhatsAppBot-MD /root/AlienAlfa
 
