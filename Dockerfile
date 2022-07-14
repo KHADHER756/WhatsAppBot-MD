@@ -1,4 +1,4 @@
-FROM quay.io/lyfe00011/md:beta
+FROM node:lts-buster
 
 RUN git clone https://github.com/KHADHER756/WhatsAppBot-MD /root/AlienAlfa
 
